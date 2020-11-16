@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kakao_appp/static/css/main.581a1872.chunk.css",
+    "main.js": "/kakao_appp/static/js/main.8ce9c050.chunk.js",
+    "main.js.map": "/kakao_appp/static/js/main.8ce9c050.chunk.js.map",
+    "runtime-main.js": "/kakao_appp/static/js/runtime-main.7e51882e.js",
+    "runtime-main.js.map": "/kakao_appp/static/js/runtime-main.7e51882e.js.map",
+    "static/js/2.8b3dc689.chunk.js": "/kakao_appp/static/js/2.8b3dc689.chunk.js",
+    "static/js/2.8b3dc689.chunk.js.map": "/kakao_appp/static/js/2.8b3dc689.chunk.js.map",
+    "index.html": "/kakao_appp/index.html",
+    "static/css/main.581a1872.chunk.css.map": "/kakao_appp/static/css/main.581a1872.chunk.css.map",
+    "static/js/2.8b3dc689.chunk.js.LICENSE.txt": "/kakao_appp/static/js/2.8b3dc689.chunk.js.LICENSE.txt",
+    "static/media/kakaofriends.84375bb9.png": "/kakao_appp/static/media/kakaofriends.84375bb9.png",
+    "static/media/kakaostory.572f3ce5.png": "/kakao_appp/static/media/kakaostory.572f3ce5.png",
+    "static/media/mybg.5004e211.jpg": "/kakao_appp/static/media/mybg.5004e211.jpg",
+    "static/media/myimg.3cf813ba.jpg": "/kakao_appp/static/media/myimg.3cf813ba.jpg",
+    "static/media/path.7d00edf7.png": "/kakao_appp/static/media/path.7d00edf7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e51882e.js",
+    "static/js/2.8b3dc689.chunk.js",
+    "static/css/main.581a1872.chunk.css",
+    "static/js/main.8ce9c050.chunk.js"
+  ]
+}
